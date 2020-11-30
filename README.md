@@ -1,6 +1,6 @@
 # Heart Fireworks with p5.ts
 
-[prewiew](https://e3zfp.csb.app/)
+[Prewiew](https://e3zfp.csb.app/)
 
 ## References
 
