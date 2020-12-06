@@ -1,4 +1,4 @@
-# Heart Fireworks with p5.ts
+# Heart Fireworks with p5.ts!
 
 Prewiew [here](https://e3zfp.csb.app/)
 
