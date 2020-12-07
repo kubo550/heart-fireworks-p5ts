@@ -1,6 +1,6 @@
 # Heart Fireworks with p5.ts!
 
-Prewiew [here](https://e3zfp.csb.app/)
+Prewiew [here](https://e3zfp.csb.app/). I hope you'll like my work!
 
 ![Preview image](https://github.com/kubo550/heart-fireworks-p5ts/blob/main/heart-fireworks-preview.png)
 
