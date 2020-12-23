@@ -1,8 +1,8 @@
 # Heart Fireworks with p5.ts!
 
-Heart Firewoks using classes: 
+Heart Firewoks using classes like: 
 1. Firework
-
+1. Particle
 
 Prewiew [here](https://e3zfp.csb.app/). I hope you are going to like my work!
 
