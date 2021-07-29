@@ -1,5 +1,7 @@
 # Heart Fireworks with p5.ts!
 
+Simple fireworks animation in p5js library with typescript 
+
 ## Tech Stak
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
